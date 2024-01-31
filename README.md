@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# Veterans Empowering Excellence (V.E.X) Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the source code repository for the Veterans Empowering Excellence (V.E.X) application! This repository contains the codebase for our online platform dedicated to empowering veterans in their transition from military to civilian careers.
 
-## Available Scripts
+## About V.E.X
 
-In the project directory, you can run:
+V.E.X is an innovative online platform designed to bridge the gap between military service and civilian employment by providing comprehensive mentorship and job readiness support to veterans. Our mission is to empower veterans with personalized mentorship, resume review, cover letter assistance, community engagement, and access to a curated collection of resources and exclusive workshops.
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To get started with the V.E.X application, follow these steps:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **Clone the Repository:** Clone this repository to your local machine using the following command:
+   
+git clone https://github.com/your-username/vex-application.git
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. **Install Dependencies:** Navigate to the project directory and install dependencies using your preferred package manager. For example, using npm:
+cd vex-application
+npm install
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. **Set Up Environment Variables:** Create a `.env` file in the root directory and add the necessary environment variables such as database connection strings, API keys, etc.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. **Run the Application:** Start the development server using the appropriate command for your environment. For example, using npm:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+npm start
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+5. **Access the Application:** Once the server is running, access the V.E.X application by navigating to `http://localhost:3000` in your web browser.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+We welcome contributions from the community to help improve the V.E.X application! If you would like to contribute, please follow these guidelines:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Fork the repository and create a new branch for your feature or bug fix.
+- Make your changes and ensure that the code passes all tests and linting standards.
+- Submit a pull request detailing the changes you've made and why they are necessary.
 
-## Learn More
+## Issues
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+If you encounter any bugs, issues, or have suggestions for improvement, please open an issue on the GitHub repository. We appreciate your feedback and will work to address any issues promptly.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
+This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code as you see fit. See the LICENSE file for more details.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contact
 
-### Analyzing the Bundle Size
+For inquiries or further assistance, please contact the V.E.X team at contact@vex-application.com.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Thank you for your interest in Veterans Empowering Excellence (V.E.X)!
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
